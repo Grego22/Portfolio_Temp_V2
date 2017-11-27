@@ -2,3 +2,12 @@
 	border-radius: 35%;
 	height: 22em;
 }
+
+.nostyle{
+	color: white;
+
+}
+
+.nostyle:hover{
+	color: blue;
+}
