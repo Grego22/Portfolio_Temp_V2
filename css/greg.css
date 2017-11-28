@@ -11,3 +11,9 @@
 .nostyle:hover{
 	color: blue;
 }
+
+.img-fluid2 {
+	height: 44em;
+	max-width: 100%;
+	height: auto;
+}
