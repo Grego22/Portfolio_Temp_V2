@@ -1,14 +1,13 @@
 .portfolio {
 	border-radius: 35%;
-	height: 22em;
+	height: 18em;
 }
 
-.nostyle{
+.nostyle {
 	color: white;
-
 }
 
-.nostyle:hover{
+.nostyle:hover {
 	color: blue;
 }
 
